@@ -1,1 +1,1 @@
-# ProblemaDeLosFilosofos
+# The dining philosophers problem
